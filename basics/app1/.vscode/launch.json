@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Enamel App",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/app1.py",
+        "console": "integratedTerminal",
+        "cwd": "${workspaceFolder}",
+        "args": ["${workspaceFolder}"],
+      },
+    ],
+    "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
+  }
