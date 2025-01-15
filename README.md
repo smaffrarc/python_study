@@ -4,7 +4,7 @@
 
 Download from https://www.anaconda.com/download/success
 
-## Creating a Python environment
+## Python environment basics
 
 ### 1. Start the correct terminal
 
@@ -66,7 +66,7 @@ conda env list
 
 ## Jupyter Notebook
 
-To start Jupyter Notebook, use:
+To start Jupyter Notebook, first activate the *ex1* environment and then use the command:
 
 ```console
 jupyter notebook
@@ -76,5 +76,22 @@ This repository contains an example notebook that creates a simple plot using Nu
 
 ## Visual Studio Code
 
+To use Visual Studio Code, we first need to set it up. A comprehensive guide can be found in https://code.visualstudio.com/docs/python/python-quick-start
+
+But essentially, we need to complete two steps:
+
+### 1. Install the Python extension
+
+The Python language support extension provided by Microsoft is the recommended one. It can easily found in vscode, as shown here: 
+
+### 2. Create the lanch.json file 
+
+First, inside your Python project folder, create a .vscode folder. Next, add a launch.json file to the .vscode folder. As an example,
+check the file created for the example project in this repo.
 
 
+
+
+
+
+f
