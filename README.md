@@ -88,10 +88,3 @@ The Python language support extension provided by Microsoft is the recommended o
 
 First, inside your Python project folder, create a .vscode folder. Next, add a launch.json file to the .vscode folder. As an example,
 check the file created for the example project in this repo.
-
-
-
-
-
-
-f
