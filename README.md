@@ -86,5 +86,11 @@ The Python language support extension provided by Microsoft is the recommended o
 
 ### 2. Create the lanch.json file 
 
+# Creating Packages
+
+Real Python has a great reference on how to create Python Packages: https://realpython.com/python-modules-packages/. It does not mention Setuptools, unfortunately, which is a package for building packages for distribution. 
+
+
+
 First, inside your Python project folder, create a .vscode folder. Next, add a launch.json file to the .vscode folder. As an example,
 check the file created for the example project in this repo.
