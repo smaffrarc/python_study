@@ -4,11 +4,11 @@
 
 2. Create an environment called ex1
 
-> conda create -n ex1
+>> conda create -n ex1
 
 3. Activate the exercise1 environment 
 
-> conda activate ex1
+>> conda activate ex1
 
 4. Install the following packages:
 	a. numpy
@@ -16,4 +16,4 @@
 	c. matplotlib
 	d. jupyter
 	
-> conda install numpy pandas matplotlib jupyter
+>> conda install numpy pandas matplotlib jupyter
